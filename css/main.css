@@ -1,0 +1,29 @@
+﻿/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');*/
+@import url('fonts/Cavorting.otf');
+*{
+	font-family: 'Cavorting';
+	color: #555;
+}
+
+
+.games{
+	border: 1px solid black;
+		width: 50%;
+
+}
+.credits{
+	border: 1px solid black;
+		width: 50%;
+
+}
+.games:hover{
+	background-color: #18BC9C;
+	color: #fff;
+}
+.credits:hover{
+	background-color: #555;
+	color: #fff;
+}
+a{
+	text-decoration: none;
+}
